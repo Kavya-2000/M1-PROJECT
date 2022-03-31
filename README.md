@@ -37,13 +37,8 @@ How:
 
 # FOLDER STRUCTURE
 
-FOLDER	            DESCRPTION
+![folder structure](https://user-images.githubusercontent.com/61905658/161096218-5e1d58aa-76cc-4830-b760-dc5add05d939.png)
 
-1_Requirements    	Documents detailing requirements
-2_Architecture	    Structural and Behavioural UML
-3_Implementation   	All the code is written here
-4_TestPlanAndOutput	Documents with test plans and outputs
-5_Report	           Generated Report
 
 # Challenges Faced and How Was It Overcome
 1.I have faced issues in file handling. so, I used strings.
