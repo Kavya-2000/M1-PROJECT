@@ -1,5 +1,5 @@
-# M1-PROJECT
-#employee-Record-System
+## M1-PROJECT
+# employee-Record-System
 Title : Employee Data Management System
 The mini-project “Employee Record System Project in C” is a console application using the C programming language. This project compiled in Code Blocks with the GCC compiler. In this console application, you can do basic Employee Record tasks like adding the employee info, view the added employee, search the employees. This application based on file handling in C, where I have used a file-related function like fopen, fread, fwrite, ..etc. Good thing is that “Employee Record System Project” is password-protected, so only authorized persons able to login to this application. Also to increase the readability, I have broken the application in different functions. Each function of the project extensively use in the file handing function, so it is also a great project to understand file handling in C.
 
