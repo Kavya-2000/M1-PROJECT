@@ -7,12 +7,12 @@ Tools
 Draw.io Creately or any other free tools
 
 Behavioral Diagram
-
 Activity Diagram
 
 ->High level 
 -->Low level
-Strutural Diagram
 
+Strutural Diagram
 Class Diagram
+
    --> high level 
